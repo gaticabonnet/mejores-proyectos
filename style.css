@@ -8,7 +8,7 @@ body {
   font-style: normal;
 }
 h1{
-  padding: 30px;
+  padding: 30px; 
 }
 a{
   text-decoration: none;
@@ -50,7 +50,7 @@ section {
   width: 100%;
   border-radius: 2rem;
   position: absolute;
-  box-shadow: 0 0 10px 2px rgba(50, 50, 50, 2.5);
+  box-shadow: 0 0 10px 2px rgba(50, 50, 50, 2.5); 
   backface-visibility: hidden;
   color: aliceblue;
   background: linear-gradient(-135deg,
